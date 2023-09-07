@@ -18,7 +18,7 @@ const CreateUser = () => {
 
 	return (
 		<>
-			<div className=" h-full w-1/2 m-auto bg-gray-50 flex flex-col justify-center items-center">
+			<div className=" h-full md:w-1/2 m-auto bg-gray-50 flex flex-col justify-center items-center">
 				<div>
 					<h2 className="text-2xl text-center ">Add a new user!</h2>
 				</div>
